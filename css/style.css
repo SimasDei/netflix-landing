@@ -1,0 +1,38 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #000;
+  color: #999;
+}
+
+body ul {
+  list-style: none;
+}
+
+body h1,
+body h2,
+body h3,
+body h4 {
+  color: #fff;
+}
+
+body a {
+  color: #fff;
+  text-decoration: none;
+}
+
+body p {
+  margin: 0.5rem 0;
+}
+
+body img {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
